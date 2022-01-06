@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h4{
+    margin: 20px;
+}
+.top-border{
+    border-left: 5px solid darkkhaki;
+    margin-top: 50px;
+}
+#elon-musk{
+    float: right;
+}
+.span-tag{
+    color: burlywood;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.container{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-color:#FFFFFF;padding: 10px 40px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orange, tomato);
+}
+.center-text{
+    text-align: center;
+}
+.box-container{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 80px; 
+}
+.box{
+    width: 500px;
+    box-shadow:10px 10px 40px indianred;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+.one{
+    background-color: rgb(92, 82, 99);
+    color: white;
+}
+.two{
+    background-color: rgb(104, 114, 114);
+    color: white;
+}
+.three{
+    background-color:rgb(153, 94, 123);
+    color: white;
+}
+.footer{
+    text-align: center;
+    background-color: cadetblue;
+    color: cornsilk;
+    padding-bottom: 10px;
+}
+.image{
+    width: 70%;
+}
